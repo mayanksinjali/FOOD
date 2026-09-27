@@ -1,0 +1,8 @@
+category: Design
+interface:
+  display_name: 'Frontend Design'
+  short_description: 'Visually polish or restyle an existing UI element when explicitly asked.'
+  icon_dark: './assets/icon-dark.png'
+  icon_light: './assets/icon-light.png'
+  default_prompt: 'Create a production-grade frontend UI with high design quality.'
+  builtin: true
